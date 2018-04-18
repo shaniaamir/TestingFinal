@@ -1,9 +1,1 @@
-TEst
-US-107
-US-8
-US-7
-US-6
-BG-11
-537
-TK-11
-epic-3
+Sub ur gia
